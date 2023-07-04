@@ -17,7 +17,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Создание рекомендационной системы постов для соц. сети (__[github](https://github.com/SvyatoslavMilovidov/RecomendationSystem)__)|Решаемая задача — по запросу рекомендовать пользователю 5 постов, максимизируя при этом hitrate. Необходимо обучить модель и создать сервис на FastAPI.|Python, FastAPI, Psycopg2, SQLAlchemy, Pandas, Numpy, Sklearn, CatBoost, Transformers|
-|Решение задачи семантической сегментации собак **В РАЗРАБОТКЕ** (__[github](https://github.com/SvyatoslavMilovidov/DogsSegmentation)__)|Необходимо разработать telegram-бота для удаления фона на фотографиях с собаками. Проект находится на стадии разработки. На данный момент имеется обученная моель на датасетах Dog Segmentation Dataset и OxfordIIITPet. Следующий этап - реализациия telegram-бота.|Python, PyTorch, Numpy, Aiogram|
+|Решение задачи семантической сегментации собак **В РАЗРАБОТКЕ** (__[github](https://github.com/SvyatoslavMilovidov/DogsSegmentation)__)|Необходимо разработать telegram-бота для удаления фона на фотографиях с собаками. Проект находится на стадии разработки. На данный момент имеется обученная модель на датасетах Dog Segmentation Dataset и OxfordIIITPet. Следующий этап - реализациия telegram-бота.|Python, PyTorch, Numpy, Aiogram|
 
 
 
